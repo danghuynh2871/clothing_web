@@ -1,8 +1,11 @@
 # clothing_web
+# Xây dựng ứng dụng web thương mại điện tử bán quần áo, sử dụng NodeJS, ExpressJS và VueJS #
+
 **-> Web bán quần áo còn chưa được cải tiến, chưa có phần quyền cho admin và user, một số chức năng chưa được hoàn thiện <-**
+
 ** Project sẽ sớm được hoàn thiện với toàn bộ chức năng cho một website thương mại điện tử **
  
-** Xây dựng ứng dụng web thương mại điện tử bán quần áo, sử dụng NodeJS, ExpressJS và VueJS **
+
 
 # Hướng dẫn chạy file
 
