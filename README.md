@@ -1,7 +1,7 @@
 # clothing_web
 # Xây dựng ứng dụng web thương mại điện tử bán quần áo, sử dụng NodeJS, ExpressJS và VueJS #
 
-**Giao diện khá ưa nhìn, đầy đủ bố cục chuẩn của một trang web thương mại điện tử, với một số chức năng như: trang chủ, sản phẩm, giỏ hàng, lịch sử đơn hàng, đăng xuất, đăng nhập, đăng ký, v.v... 
+**Giao diện khá ưa nhìn, đầy đủ bố cục chuẩn của một trang web thương mại điện tử, với một số chức năng như: trang chủ, sản phẩm, giỏ hàng, chi tiết sản phẩm, tìm kiếm, bộ lọc sản phẩm, lịch sử đơn hàng, đăng xuất, đăng nhập, đăng ký, v.v... 
 
 và nhiều chức năng phụ khác như: thông tin liên hệ, chính sách, giới thiệu, v.v... **
 
